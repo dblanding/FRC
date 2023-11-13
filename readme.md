@@ -30,6 +30,8 @@ Handy Tip: SCREW_NUMBER_SIZE x 0.013" + 0.060" = SCREW_DIAMETER
 
 ### Chart showing <a href="https://www.pencomsf.com/articles-updates/screw-torque-reference/" target="_blank">proper torque for various screw sizes</a>
 
+![Dial torque screwdriver](imgs/dial-torque-screwdriver.jpg)
+
 ----------------------------------------
 
 ## 4. Screw Head styles and their drivers:
