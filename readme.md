@@ -52,6 +52,11 @@ Handy Tip: SCREW_NUMBER_SIZE x 0.013" + 0.060" = SCREW_DIAMETER
 ![Nyloc Nuts](imgs/nyloc-nut.png)
 ![Assembled Nyloc Nut](imgs/nyloc&screw.png)
 
+
+### PEM Nuts - Press in nuts for sheet metal
+
+![PEM Nuts](imgs/pem-nut.png)
+
 ----------------------------------------
 
 ## Additional links:
